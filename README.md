@@ -2,8 +2,8 @@
 
 RecipeShelf is a small local command-line utility that grows in focused stages.
 
-Current stage: 30
-Latest focus: Document task workflow
+Current stage: 31
+Latest focus: Add note workflow checklist
 
 ## Goals
 
